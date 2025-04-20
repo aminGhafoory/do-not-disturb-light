@@ -20,7 +20,8 @@ A simple Arduino-powered "Do Not Disturb" light with a soft glowing dome. Great 
 
 ## 🛠️ Parts List
 - Arduino Uno (or compatible)
-- RGB LED / single color LED
+- RGB LED
+- Button
 - Dome (e.g., plastic ornament, diffuser, etc.)
 - USB power source
 - Optional: 3D printed or crafted base
